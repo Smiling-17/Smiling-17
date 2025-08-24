@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Smiling-17/Smiling-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 Hello, tôi là Nguyễn Tiến Dũng! Là một sinh viên và là người đam mê mãnh liệt với thế giới của Trí tuệ nhân tạo.<br><br>💡 Điều tôi quan tâm: Khám phá cách các mô hình AI có thể tạo ra những giải pháp đột phá. Tôi đặc biệt hứng thú với việc phát triển các thuật toán thông minh có khả năng học hỏi và đưa ra quyết định.<br><br>🚧 Những gì tôi làm: Hiện tại, tôi đang tập trung vào việc trau dồi kỹ năng lập trình và xây dựng các dự án AI nhỏ để thử nghiệm các ý tưởng mới.<br><br>🚀 Định hướng tương lai: Trở thành một chuyên gia trong lĩnh vực AI, góp phần tạo ra các sản phẩm công nghệ có ảnh hưởng tích cực đến cuộc sống.<br><br>🤝 Hợp tác: Tôi luôn tìm kiếm những người có cùng đam mê để cùng nhau học hỏi và làm việc trên các dự án thú vị.
 
 
@@ -29,11 +22,3 @@ Hello, tôi là Nguyễn Tiến Dũng! Là một sinh viên và là người đa
 [![](https://visitcount.itsvg.in/api?id=Smiling-17&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
